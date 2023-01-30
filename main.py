@@ -14,3 +14,4 @@ if __name__ == "__main__":
     f = sensors_plot3d(icubeg.sensor_geometry)
     f = events_plot3d(df_select, fig=f, event=f"event {event_id}")
     win = PlotlyViewer(f)
+
