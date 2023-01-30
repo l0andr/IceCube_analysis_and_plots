@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+pyarrow
+ipywidgets
+PyQt5
+PyQt5-sip
+PyQtWebEngine
+
